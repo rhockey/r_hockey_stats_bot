@@ -1,0 +1,2 @@
+pip install --pre praw
+python setup.py develop
